@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/IPlayJoy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/IMajiangJoy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/IMajiangPlayer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/INormalRule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/MajiangPlayer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/ZhuoJiMajiangJoy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/IMajiangCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/AbstractTiaoCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/EightTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/FiveTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/FourTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/NineTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/OneTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/SevenTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/SixTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/ThreeTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tiao/TwoTiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/AbstractTongCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/EightTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/FiveTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/FourTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/NineTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/OneTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/SevenTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/SixTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/ThreeTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/tong/TwoTong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/AbstractWanCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/EightWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/FiveWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/FourWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/NineWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/OneWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/SevenWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/SixWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/ThreeWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/card/wan/TwoWan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/rules/ChiPaiRule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/algorithm/rules/IMajiangRule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/sink/IMajiangFrameSink.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Hx/HxServer/game/majiang/sink/ZhuoJiMajiangFrameSink.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Jdbc.properties" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
