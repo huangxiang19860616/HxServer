@@ -12,21 +12,6 @@ public abstract class AbstractModule implements IModule{
     }
 
     @Override
-    public void init() {
-
-    }
-
-    @Override
-    public void start() {
-
-    }
-
-    @Override
-    public void stop() {
-
-    }
-
-    @Override
     public String getId() {
         return id;
     }

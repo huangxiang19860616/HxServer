@@ -5,4 +5,5 @@ package Hx.HxServer.module;
  */
 public interface IModuleFactory {
     void registModule(IModule module);
+    void unRegistModule(IModule module);
 }
